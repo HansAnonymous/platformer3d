@@ -1169,7 +1169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thingToSpawn: {fileID: 1194605029589290790, guid: a4bea6a399d2cdf4bb8e7fb1adf645f7,
     type: 3}
-  key: 32
+  key: 304
 --- !u!1001 &1194605028382889987
 PrefabInstance:
   m_ObjectHideFlags: 0

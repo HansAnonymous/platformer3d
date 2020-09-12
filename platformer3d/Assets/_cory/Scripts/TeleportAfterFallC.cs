@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using UnityEngine;
 
-public class TeleportAfterFall : MonoBehaviour
+public class TeleportAfterFallC : MonoBehaviour
 {
     Vector3 startposition;
     public float minimumY = -20;

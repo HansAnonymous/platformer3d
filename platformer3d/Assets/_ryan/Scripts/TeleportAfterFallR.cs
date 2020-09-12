@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TeleportAfterFall : MonoBehaviour
+public class TeleportAfterFallR : MonoBehaviour
 {
     Vector3 startposition;
     public float minimumY = -20;

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TeleportAfterFall : MonoBehaviour
+public class TeleportAfterFallH : MonoBehaviour
 {
 
     Vector3 startPosition;
